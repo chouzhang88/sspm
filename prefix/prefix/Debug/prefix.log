@@ -1,0 +1,4 @@
+﻿  DB.cpp
+c:\users\93866\documents\visual studio 2015\projects\prefix\prefix\db.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+  prefix.vcxproj -> C:\Users\93866\Documents\Visual Studio 2015\Projects\prefix\Debug\prefix.exe
+  prefix.vcxproj -> C:\Users\93866\Documents\Visual Studio 2015\Projects\prefix\Debug\prefix.pdb (Full PDB)

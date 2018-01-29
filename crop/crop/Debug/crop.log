@@ -1,0 +1,18 @@
+﻿  crop.cpp
+d:\program files (x86)\vc\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+d:\program files (x86)\vc\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc
+  RLCProducer.cpp
+d:\program files (x86)\vc\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(271): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(280): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(326): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(376): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\93866\documents\visual studio 2015\projects\crop\crop\rlcproducer.cpp(392): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\vc\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc
+  正在生成代码...
+  crop.vcxproj -> C:\Users\93866\Documents\Visual Studio 2015\Projects\crop\Debug\crop.exe
+  crop.vcxproj -> C:\Users\93866\Documents\Visual Studio 2015\Projects\crop\Debug\crop.pdb (Full PDB)

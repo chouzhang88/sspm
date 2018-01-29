@@ -1,0 +1,13 @@
+library(arulesSequences)
+x <- read_baskets(con = system.file("misc", "crop.txt", package ="arulesSequences"),info = c("sequenceID","eventID","SIZE"))
+as(x, "data.frame")
+s1 <- cspade(x, parameter = list(support = 0.4, maxgap=1),  control = list(verbose = TRUE, tidLists = TRUE))
+as(s1,"data.frame")
+
+=============================================================================================================
+
+library(arulesSequences)
+x <- read_baskets(con = system.file("misc", "test.txt", package ="arulesSequences"),info = c("sequenceID","eventID","SIZE"))
+as(x, "data.frame")
+s1 <- cspade(x, parameter = list(support = 0.4),  control = list(verbose = TRUE, tidLists = TRUE))
+as(s1,"data.frame")
